@@ -3,7 +3,7 @@
 ## Usage
 input:
 ```bash
-The general input format is in the third block of 'SASA-TX.ipynb', which can be opened by Jupyter Notebook.
+The general input format is in the third block of 'SASA_TX.ipynb', which can be opened by Jupyter Notebook.
 
 Here shows the input format copied from the notebook:
 
