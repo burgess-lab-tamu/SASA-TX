@@ -19,3 +19,4 @@ column 2: % buried for this residue
 column 3: buired area for this residue
 
 higher % buried (column 2) and higher buried ared (column 3) suggest a more important residue in the targeted protein-protein interactions.
+an example output is attached as a csv file.
